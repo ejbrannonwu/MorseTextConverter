@@ -1,6 +1,3 @@
-//Evan Brannon-Wu
-//CS 124   10/06/2021
-//Lab 02 - Sort, Search
 //The program utilizes two sorting algorithms that measures their
 //time for both sorted and unsorted sets of data.
 #include <iostream>
